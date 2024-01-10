@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 7216,
+    "id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/images/Image_1/canvas/",
+    "label" : {
+      "none" : [ "Image_1" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/images/Image_1/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/images/Image_1/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 226,
+              "height" : 170
+            }, {
+              "width" : 451,
+              "height" : 339
+            }, {
+              "width" : 902,
+              "height" : 677
+            }, {
+              "width" : 1804,
+              "height" : 1353
+            }, {
+              "width" : 3608,
+              "height" : 2706
+            }, {
+              "width" : 7216,
+              "height" : 5412
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 7216,
+            "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/images/Image_1",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 5412
+          } ],
+          "format" : "image/jpeg",
+          "width" : 7216,
+          "id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/images/Image_1/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 5412
+        },
+        "target" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/images/Image_1/canvas/"
+      } ]
+    } ],
+    "height" : 5412
+  }, {
     "width" : 5436,
     "id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/images/Image8/canvas/",
     "label" : {

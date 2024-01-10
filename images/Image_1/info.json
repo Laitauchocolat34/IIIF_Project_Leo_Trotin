@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 226,
+    "height" : 170
+  }, {
+    "width" : 451,
+    "height" : 339
+  }, {
+    "width" : 902,
+    "height" : 677
+  }, {
+    "width" : 1804,
+    "height" : 1353
+  }, {
+    "width" : 3608,
+    "height" : 2706
+  }, {
+    "width" : 7216,
+    "height" : 5412
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 7216,
+  "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/images/Image_1",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5412
+}

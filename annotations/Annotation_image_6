@@ -1,0 +1,43 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The marginalized corpse, yet showing signs of life. This representation serves to underline the mediocrity of the human condition while indicating the possibility of elevation",
+      "@type" : "oa:Tag",
+      "chars" : "The marginalized corpse, yet showing signs of life. This representation serves to underline the mediocrity of the human condition while indicating the possibility of elevation"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "his image of a corpse is quite ambivalent. The deceased has one foot in the grave, illustrating the ambiguous situation of the excommunicated who is absolved. Through the presence of a part of the corpse in a tomb, the image emphasizes the distancing and loss of the connection with God. However, being absolved, the deceased is shown emerging from the tomb with signs of life, alluding to a positive divine action. Nevertheless, it is not a classic return to life; it is extraordinary. He returns to life in a very temporary way, unlike the classic resurrections performed by God",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>his image of a corpse is quite ambivalent. The deceased has one foot in the grave, illustrating the ambiguous situation of the excommunicated who is absolved. Through the presence of a part of the corpse in a tomb, the image emphasizes the distancing and loss of the connection with God. However, being absolved, the deceased is shown emerging from the tomb with signs of life, alluding to a positive divine action. Nevertheless, it is not a classic return to life; it is extraordinary. He returns to life in a very temporary way, unlike the classic resurrections performed by God</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-10T15:44:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704901497331",
+    "dcterms:modified" : "2024-01-10T15:44:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3939,1088,47,70"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3962.19592,1158.22047c0,-15.52341 7.76171,-31.04683 23.28512,-46.57024c0,-12.86002 -10.4251,-23.28512 -23.28512,-23.28512c-12.86002,0 -23.28512,10.4251 -23.28512,23.28512c15.52341,15.52341 23.28512,31.04683 23.28512,46.57024z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_2a12ca3b-2228-4a6c-b9ab-62120dd86910\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://829a0133-ecfd-47f3-b0b7-f1c369bb0445"
+    } ]
+  } ],
+  "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/annotations/Annotation_image_6",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

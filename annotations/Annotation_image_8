@@ -1,0 +1,43 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The central corpse. It allows for the depiction of a restoration of the Edenic order, something only possible through the incarnation",
+      "@type" : "oa:Tag",
+      "chars" : "The central corpse. It allows for the depiction of a restoration of the Edenic order, something only possible through the incarnation"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The image contributes to sanctifying the dead body of Mary by focusing on her corporeal and mortal aspect. By depicting her in a very large size, at the center, without a shroud and without any signs of death, the image portrays the complete purity of the deceased. It is through this purity that she escapes the common fate of humanity, which is the decay of the flesh. The image offers believers a glimpse of what awaits the faithful at the end of times. Emphasizing all these aspects, the image also contributes to the belief in the Assumption rather than the Dormition, a belief that gained prominence towards the end of the medieval period.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The image contributes to sanctifying the dead body of Mary by focusing on her corporeal and mortal aspect. By depicting her in a very large size, at the center, without a shroud and without any signs of death, the image portrays the complete purity of the deceased. It is through this purity that she escapes the common fate of humanity, which is the decay of the flesh. The image offers believers a glimpse of what awaits the faithful at the end of times. Emphasizing all these aspects, the image also contributes to the belief in the Assumption rather than the Dormition, a belief that gained prominence towards the end of the medieval period.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-10T15:36:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704900988892",
+    "dcterms:modified" : "2024-01-10T15:36:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3937,1042,47,70"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3960.22966,1111.41179c0,-15.52341 7.76171,-31.04683 23.28512,-46.57024c0,-12.86002 -10.4251,-23.28512 -23.28512,-23.28512c-12.86002,0 -23.28512,10.4251 -23.28512,23.28512c15.52341,15.52341 23.28512,31.04683 23.28512,46.57024z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_7f3ac75b-f90f-47f9-a23f-b13b4ea3f43d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a22b0587-fc17-4f74-a93e-70468487312f"
+    } ]
+  } ],
+  "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/annotations/Annotation_image_8",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

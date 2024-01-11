@@ -1,0 +1,43 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The marginalized corpse. It emphasizes the theme of the Fall, damnation, the loss of resemblance to God, and eternal death",
+      "@type" : "oa:Tag",
+      "chars" : "The marginalized corpse. It emphasizes the theme of the Fall, damnation, the loss of resemblance to God, and eternal death"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Here, the visibility of the corpse accentuates the ignominious nature of the punishment, unlike other representations of corpses. The fact that it is placed at the edge of the image emphasizes the exclusion of the wicked dead.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Here, the visibility of the corpse accentuates the ignominious nature of the punishment, unlike other representations of corpses. The fact that it is placed at the edge of the image emphasizes the exclusion of the wicked dead.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-11T12:24:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704975894168",
+    "dcterms:modified" : "2024-01-11T12:24:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2884,1166,36,54"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2901.86887,1219.51885c0,-11.91629 5.95815,-23.83258 17.87444,-35.74887c0,-9.87178 -8.00266,-17.87444 -17.87444,-17.87444c-9.87178,0 -17.87444,8.00266 -17.87444,17.87444c11.91629,11.91629 17.87444,23.83258 17.87444,35.74887z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_1bd5ef0f-1047-4421-9c13-c20c340731fd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://da8623e4-fbf1-4302-9632-06f1aaafe6bd"
+    } ]
+  } ],
+  "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/annotations/Annotation_image_1",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

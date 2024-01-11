@@ -1,0 +1,373 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Area evoking the corpse",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Area evoking the corpse</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-11T12:36:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704976583414",
+    "dcterms:modified" : "2024-01-11T12:38:51",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2924,1873,1734,249"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2923.86588,1973.50976l12.07101,124.73373l144.85207,24.14201h177.04142l213.25444,-8.04734l237.39645,4.02367l245.44379,-4.02367l144.85207,4.02367l148.87574,-8.04734l116.68639,8.04734h173.01775h104.61538l16.09467,-84.49704l-8.04734,-96.56805l8.04734,-48.28402l-269.5858,-16.09467l-24.14201,64.3787l-76.4497,16.09467l-181.06509,4.02367l-108.63905,-4.02367l-333.9645,12.07101l-253.49112,-16.09467l-245.44379,16.09467z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_eb8ebeae-18e1-4be3-9508-1911f17be399\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"14.29955\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8eacad67-336d-4b76-bd29-dc7588e9463e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Area evoking the corpse",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Area evoking the corpse</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-11T12:36:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704976619883",
+    "dcterms:modified" : "2024-01-11T12:38:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2936,2226,1744,548"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4390.20118,2745.6837l-5.79408,-104.29349l295.49822,5.79408l-11.58817,-417.17396l-631.55503,-4.34556l-17.38225,75.32308l-57.94083,28.97041l-191.20473,-8.69112l-292.60118,-2.89704l-176.71953,14.48521l-254.93964,2.89704l-104.29349,2.89704l-5.79408,434.55621l866.21538,-2.89704z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_22ec77d3-47ed-4a93-83e3-3f69fe0185b6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"49.41924\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8eacad67-336d-4b76-bd29-dc7588e9463e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Area not evoking the corpse",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Area not evoking the corpse</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-11T12:35:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704976516065",
+    "dcterms:modified" : "2024-01-11T12:40:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2913,2102,1760,221"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2929.90138,2102.26716l147.53452,23.4714l160.94675,10.05917l181.06509,-6.70611l489.54635,6.70611l764.49704,-20.11834l-3.35306,100.59172l-509.66469,3.35306l-137.47535,-3.35306l-23.4714,97.23866l-295.06903,-16.76529l-177.71203,6.70611l-248.12623,13.41223l-187.7712,-13.41223l-177.71203,20.11834z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_37fdaee8-f751-49f6-a3ef-b5337cc8c0d8\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"22.13476\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8eacad67-336d-4b76-bd29-dc7588e9463e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Area not evoking the corpse",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Area not evoking the corpse</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-11T12:32:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704976363537",
+    "dcterms:modified" : "2024-01-11T12:40:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=832,2850,1760,115"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M832.38345,2850.20912h880.01326v0h880.01326v57.27237v57.27237h-880.01326h-880.01326v-57.27237z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0],&quot;editable&quot;:true}\" id=\"rectangle_60cf0fe8-f836-42fc-bd79-2b206009c85e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"22.13476\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8eacad67-336d-4b76-bd29-dc7588e9463e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The marginalized corpse. It emphasizes the theme of the Fall, damnation, the loss of resemblance to God, and eternal death",
+      "@type" : "oa:Tag",
+      "chars" : "The marginalized corpse. It emphasizes the theme of the Fall, damnation, the loss of resemblance to God, and eternal death"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The presence of the donkey here serves to accentuate the dehumanization of the deceased sinners. By sinning, they lose what remains of the divine within them, becoming nothing more than beasts in the eyes of the clergy. Governed and carried away in life by sin (or rather, by their instinctual animalistic nature), humans in death (with the loss of the soul being the last trace of the spiritual within them) become mere animals because the animality of humans is rooted in their physical bodies. This scene is all the more powerful because humans, who are supposed to have dominion over animals, paradoxically find themselves being moved by the donkey. Furthermore, they wear the donkey like a garment. Consequently, a parallel can be drawn with the Genesis narrative. In that story, it is mentioned that as a sign of the new human condition resulting from the Fall, humans will have to carry on their backs the skins of animals as clothing. However, the presented scenario is reversed; it is the donkey that carries on its back the human corpse, akin to that of an animal",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The presence of the donkey here serves to accentuate the dehumanization of the deceased sinners. By sinning, they lose what remains of the divine within them, becoming nothing more than beasts in the eyes of the clergy. Governed and carried away in life by sin (or rather, by their instinctual animalistic nature), humans in death (with the loss of the soul being the last trace of the spiritual within them) become mere animals because the animality of humans is rooted in their physical bodies. This scene is all the more powerful because humans, who are supposed to have dominion over animals, paradoxically find themselves being moved by the donkey. Furthermore, they wear the donkey like a garment. Consequently, a parallel can be drawn with the Genesis narrative. In that story, it is mentioned that as a sign of the new human condition resulting from the Fall, humans will have to carry on their backs the skins of animals as clothing. However, the presented scenario is reversed; it is the donkey that carries on its back the human corpse, akin to that of an animal</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-10T15:39:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704901180865",
+    "dcterms:modified" : "2024-01-10T15:39:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4320,891,47,70"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4343.48566,960.69285c0,-15.52341 7.76171,-31.04683 23.28512,-46.57024c0,-12.86002 -10.4251,-23.28512 -23.28512,-23.28512c-12.86002,0 -23.28512,10.4251 -23.28512,23.28512c15.52341,15.52341 23.28512,31.04683 23.28512,46.57024z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_ccb67e23-2462-4d61-b1a6-e5de4f1061f3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8eacad67-336d-4b76-bd29-dc7588e9463e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Area evoking the corpse",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Area evoking the corpse</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-11T12:37:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704976634706",
+    "dcterms:modified" : "2024-01-11T12:38:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3958,637,698,738"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3957.81609,637.33321h348.92309v0h348.92309v368.94744v368.94744h-348.92309h-348.92309v-368.94744z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_a6d15d79-415f-44fd-9d92-41825dcca43d\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"34.31892\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8eacad67-336d-4b76-bd29-dc7588e9463e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Area not evoking the corpse",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Area not evoking the corpse</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-11T12:34:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704976490494",
+    "dcterms:modified" : "2024-01-11T12:40:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2914,1752,1734,205"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3832.54438,1771.65572l801.38067,-20.11834l13.41223,124.06312l-271.59763,-16.76529l-13.41223,73.76726l-338.65878,13.41223l-345.36489,10.05917l-214.59566,-16.76529l-160.94675,16.76529l-147.53452,-6.70611l-241.42012,6.70611v-103.94477l318.54043,13.41223l207.88955,-6.70611h134.12229h147.53452h93.8856l13.41223,-83.82643z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_1a799808-cc3d-4c6b-aecc-3dd02288ccdc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"22.13476\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8eacad67-336d-4b76-bd29-dc7588e9463e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Area not evoking the corpse",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Area not evoking the corpse</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-11T12:33:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704976401511",
+    "dcterms:modified" : "2024-01-11T12:40:35",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3617,1495,1044,113"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3621.3087,1494.74035h1028.42611l11.64256,112.54474l-1028.42611,-3.88085l-15.52341,-100.90218z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_8bfdb1b1-b045-4096-8c63-ea8260cf5e54\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"18.44563\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8eacad67-336d-4b76-bd29-dc7588e9463e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Area evoking the corpse",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Area evoking the corpse</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-11T12:35:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704976551547",
+    "dcterms:modified" : "2024-01-11T12:39:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2906,1395,1744,456"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2919.84221,1424.9496l1720.11834,-30.17751v93.8856l-1019.32939,-3.35306v103.94477l6.70611,30.17751h1022.68245l-10.05917,124.06312l-818.14596,23.4714l-26.82446,83.82643l-881.85404,-3.35306l-6.70611,-144.18146l177.71203,-3.35306l60.35503,-97.23866v-13.41223l-221.30178,-3.35306z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_fe133d9b-c978-434c-8ba8-f2e3226cdfb7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"29.65155\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8eacad67-336d-4b76-bd29-dc7588e9463e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Area not evoking the corpse",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Area not evoking the corpse</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-11T12:37:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704976663750",
+    "dcterms:modified" : "2024-01-11T12:40:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2899,630,1037,770"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3936.12305,629.82408h-518.38159v0h-518.38159v384.80005v384.80005h518.38159h518.38159v-384.80005z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0],&quot;editable&quot;:true}\" id=\"rectangle_88afa3bc-ecd9-4892-9031-59d77d4b2238\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"30.74272\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8eacad67-336d-4b76-bd29-dc7588e9463e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Area not evoking the corpse",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Area not evoking the corpse</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-11T12:33:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704976422516",
+    "dcterms:modified" : "2024-01-11T12:40:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2917,1591,211,104"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2924.05402,1590.59063l204.53649,6.70611l-46.9428,97.23866l-164.2998,-3.35306l16.76529,-100.59172z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_76537097-4e0b-4ebc-8f85-a41bb4e15dbb\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"18.44563\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8eacad67-336d-4b76-bd29-dc7588e9463e"
+    } ]
+  } ],
+  "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/annotations/Annotation_image_7",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

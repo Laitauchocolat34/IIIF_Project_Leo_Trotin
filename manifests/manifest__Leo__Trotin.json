@@ -2,10 +2,15 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "IIIF_Project_Leo",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/146727591/646b2a6b854757f2c8334c8447d83bcb/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Click to edit description]",
+    "@value" : "Ce manifeste a pour objectif de créer une typologie des images de cadavre dans un recueil d'exempla intitulé le 'Ci nous dit' (ms 26 et 27) Bibliothèque de Chantilly.",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
@@ -42,6 +47,11 @@
         },
         "on" : "http://da8623e4-fbf1-4302-9632-06f1aaafe6bd"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/annotations/Annotation_image_1",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotation_image1"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://7b12c9a0-269a-4098-9332-3adc8ebd6506",
@@ -67,6 +77,11 @@
           "width" : 5436
         },
         "on" : "http://7b12c9a0-269a-4098-9332-3adc8ebd6506"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/annotations/Annotation_image_2",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotation_image2"
       } ],
       "related" : ""
     }, {
@@ -94,6 +109,11 @@
         },
         "on" : "http://53b25508-e732-4493-a422-6acc22338d56"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/annotations/Annotation_image_",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotation_image3"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://142ec4f2-4e4f-4a6e-8d2f-0cea635d943b",
@@ -119,6 +139,11 @@
           "width" : 5436
         },
         "on" : "http://142ec4f2-4e4f-4a6e-8d2f-0cea635d943b"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/annotations/Annotation_image_4",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotation_image4"
       } ],
       "related" : ""
     }, {
@@ -146,6 +171,11 @@
         },
         "on" : "http://97fe7414-be57-4fe3-86f0-d84eee6f68a9"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/annotations/Annotation_image_5",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotation_image5"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://829a0133-ecfd-47f3-b0b7-f1c369bb0445",
@@ -171,6 +201,11 @@
           "width" : 5436
         },
         "on" : "http://829a0133-ecfd-47f3-b0b7-f1c369bb0445"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/annotations/Annotation_image_6",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotation_image6"
       } ],
       "related" : ""
     }, {
@@ -198,6 +233,11 @@
         },
         "on" : "http://8eacad67-336d-4b76-bd29-dc7588e9463e"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/annotations/Annotation_image_7",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotation_image7"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://a22b0587-fc17-4f74-a93e-70468487312f",
@@ -223,6 +263,11 @@
           "width" : 5436
         },
         "on" : "http://a22b0587-fc17-4f74-a93e-70468487312f"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/annotations/Annotation_image_8",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotation_image8"
       } ],
       "related" : ""
     } ]

@@ -1,0 +1,179 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Quant li varleiz s'esvella, il monstra sa jambe toute sainne et redist aus gens sa vision. Et trouva on sa jambe pourrie delez le corps.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Quant li varleiz s'esvella, il monstra sa jambe toute sainne et redist aus gens sa vision. Et trouva on sa jambe pourrie delez le corps.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-11T12:52:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704977539155",
+    "dcterms:modified" : "2024-01-11T12:52:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=792,2542,1706,382"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M791.55687,2542.22745h853.23537v0h853.23537v191.00657v191.00657h-853.23537h-853.23537v-191.00657z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d432db91-6488-405a-9660-938df96018a9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://97fe7414-be57-4fe3-86f0-d84eee6f68a9"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #374151; font-family: S&ouml;hne, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, Helvetica Neue, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">The word \"corps\" is used to refer to the remains of saints. All narratives depicting the corpse of a saint use this term. It is also used for the deceased who has been or is intended to be involved in various funeral practices. Moreover, \"corps\" is applied in stories where the relationship between the body and the soul is portrayed.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #374151; font-family: S&ouml;hne, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, Helvetica Neue, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;\"><span style=\"font-size: 16px; white-space-collapse: preserve;\">The word \"corps\" is used to refer to the remains of saints. All narratives depicting the corpse of a saint use this term. It is also used for the deceased who has been or is intended to be involved in various funeral practices. Moreover, \"corps\" is applied in stories where the relationship between the body and the soul is portrayed.</span></span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-11T14:01:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704981674105",
+    "dcterms:modified" : "2024-01-11T14:01:14",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2123,2789,39,58"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2142.31433,2847.23071c0,-12.93618 6.46809,-25.87235 19.40427,-38.80853c0,-10.71668 -8.68759,-19.40427 -19.40427,-19.40427c-10.71668,0 -19.40427,8.68759 -19.40427,19.40427c12.93618,12.93618 19.40427,25.87235 19.40427,38.80853z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_7164ada1-af5c-4581-8589-73d04dfb1dae\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://97fe7414-be57-4fe3-86f0-d84eee6f68a9"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ciz mirascles fu essauciez ou paiz. Et loa on Nostre Segneur par mie saint Cosme et saint Damien",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ciz mirascles fu essauciez ou paiz. Et loa on Nostre Segneur par mie saint Cosme et saint Damien</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-11T12:53:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704977594725",
+    "dcterms:modified" : "2024-01-11T12:53:14",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2884,1320,1704,274"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2883.62919,1320.36157l1704.47074,11.17686v223.53715l-1061.80145,-33.53057l-22.35371,72.64957h-597.96187z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_7bb6735b-7555-4b50-9934-d34027b3aace\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://97fe7414-be57-4fe3-86f0-d84eee6f68a9"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Not being in virtue and the spiritual realm (which enable obtaining eternal life), the signs found on the corpses of the damned are not signs of life but rather signs of death. Indeed, sin leads to a double death. The first is of a spiritual nature caused by the rupture of the imaginary link between man and God. The second is of a physical nature, related to the confusion between the soul and the body, resulting in their separation at the moment of death. This image effectively illustrates this system of separation linked to sin. Indeed, the image shows the decaying leg of a sick person outside the coffin (located in the cemetery) even though the narrative indicates that it is placed inside the beer. This emphasizes that sinners do not belong to the same community, that they are excluded, and that they will experience eternal death",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Not being in virtue and the spiritual realm (which enable obtaining eternal life), the signs found on the corpses of the damned are not signs of life but rather signs of death. Indeed, sin leads to a double death. The first is of a spiritual nature caused by the rupture of the imaginary link between man and God. The second is of a physical nature, related to the confusion between the soul and the body, resulting in their separation at the moment of death. This image effectively illustrates this system of separation linked to sin. Indeed, the image shows the decaying leg of a sick person outside the coffin (located in the cemetery) even though the narrative indicates that it is placed inside the beer. This emphasizes that sinners do not belong to the same community, that they are excluded, and that they will experience eternal death</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The marginalized corpse. It emphasizes the theme of the Fall, damnation, the loss of resemblance to God, and eternal death",
+      "@type" : "oa:Tag",
+      "chars" : "The marginalized corpse. It emphasizes the theme of the Fall, damnation, the loss of resemblance to God, and eternal death"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The marginalized corpse, yet showing signs of life. This representation serves to underline the mediocrity of the human condition while indicating the possibility of elevation",
+      "@type" : "oa:Tag",
+      "chars" : "The marginalized corpse, yet showing signs of life. This representation serves to underline the mediocrity of the human condition while indicating the possibility of elevation"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2024-01-10T15:49:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704901778503",
+    "dcterms:modified" : "2024-01-11T12:55:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1871,1098,56,84"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1899.18131,1181.9211c0,-18.62809 9.31405,-37.25618 27.94214,-55.88428c0,-15.43202 -12.51013,-27.94214 -27.94214,-27.94214c-15.43202,0 -27.94214,12.51013 -27.94214,27.94214c18.62809,18.62809 27.94214,37.25618 27.94214,55.88428z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_cb03ade0-56cb-4e26-a3a9-21ce2e12e22a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"33.53057\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://97fe7414-be57-4fe3-86f0-d84eee6f68a9"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ci nous dit conment saint Cosme et saint Damien couperent de nuit la jambe a un meshengnie; pour ce que a eulz s'estoit reconmandez. Et li ratacherent la jambe d'un corps qu'en avoit mis nouvellement en un cimentiere ; et mistrent la jambe pourrie delez le corps.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ci nous dit conment saint Cosme et saint Damien couperent de nuit la jambe a un meshengnie; pour ce que a eulz s'estoit reconmandez. Et li ratacherent la jambe d'un corps qu'en avoit mis nouvellement en un cimentiere ; et mistrent la jambe pourrie delez le corps.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-11T12:54:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704977678943",
+    "dcterms:modified" : "2024-01-11T12:56:43",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=788,1829,1716,710"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1866.53517,1828.90858l-11.17686,122.94543h-1061.80145l-5.58843,586.78501h1715.6476l-5.58843,-687.37673z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_6f8c34d6-81f1-44ad-a8e6-24f4e12314f4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"33.53057\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://97fe7414-be57-4fe3-86f0-d84eee6f68a9"
+    } ]
+  } ],
+  "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/annotations/Annotation_image_5",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

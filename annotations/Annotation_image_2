@@ -1,0 +1,43 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The marginalized corpse, yet showing signs of life. This representation serves to underline the mediocrity of the human condition while indicating the possibility of elevation",
+      "@type" : "oa:Tag",
+      "chars" : "The marginalized corpse, yet showing signs of life. This representation serves to underline the mediocrity of the human condition while indicating the possibility of elevation"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "This image of translation illustrates how God can grace the bodies of good Christians, as the saint is depicted within a tree with which he almost blends. Tree branches appear to grow from him. This is a means of emphasizing the virtus and vitality of a saint. Moreover, this divine action on the bodies of good Christians serves to prove the future resurrection at the end of times. This process of elevation is visible throughout the entire image. The body moves from the bottom to the top of the image. It starts in the ground, in a coffin, and then within a tree. It is only through this elevation that the saint can assist those still on Earth, as the trunk of the tree extends toward the ground, and the tree produces fruits (apples). A parallel can be drawn with Genesis and the original sin, especially since it is due to the original sin that humans experience death and the existence of corpses.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This image of translation illustrates how God can grace the bodies of good Christians, as the saint is depicted within a tree with which he almost blends. Tree branches appear to grow from him. This is a means of emphasizing the virtus and vitality of a saint. Moreover, this divine action on the bodies of good Christians serves to prove the future resurrection at the end of times. This process of elevation is visible throughout the entire image. The body moves from the bottom to the top of the image. It starts in the ground, in a coffin, and then within a tree. It is only through this elevation that the saint can assist those still on Earth, as the trunk of the tree extends toward the ground, and the tree produces fruits (apples). A parallel can be drawn with Genesis and the original sin, especially since it is due to the original sin that humans experience death and the existence of corpses.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-10T15:29:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704900594269",
+    "dcterms:modified" : "2024-01-10T15:29:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1524,772,47,70"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1546.85672,841.4131c0,-15.52341 7.76171,-31.04683 23.28512,-46.57024c0,-12.86002 -10.4251,-23.28512 -23.28512,-23.28512c-12.86002,0 -23.28512,10.4251 -23.28512,23.28512c15.52341,15.52341 23.28512,31.04683 23.28512,46.57024z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_7748d3bc-bc63-4e40-8f17-e2574d86c99f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7b12c9a0-269a-4098-9332-3adc8ebd6506"
+    } ]
+  } ],
+  "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/annotations/Annotation_image_2",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

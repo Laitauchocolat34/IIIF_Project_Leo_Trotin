@@ -1,0 +1,43 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The central corpse. It allows for the depiction of a restoration of the Edenic order, something only possible through the incarnation",
+      "@type" : "oa:Tag",
+      "chars" : "The central corpse. It allows for the depiction of a restoration of the Edenic order, something only possible through the incarnation"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The image conveys that by being a devout Christian and following the divine law received on Mount Sinai, humans can return to the sacred land, reestablish the lost connection with God after the Fall, and bury their sins symbolized by the corpse. Indeed, we can observe that the upper part of the frame is open upwards, as if to signify the disappearance of the separation between humans and God. Furthermore, the corpse is elevated on a large mound of earth, bringing it closer to the heavens and thus to God",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The image conveys that by being a devout Christian and following the divine law received on Mount Sinai, humans can return to the sacred land, reestablish the lost connection with God after the Fall, and bury their sins symbolized by the corpse. Indeed, we can observe that the upper part of the frame is open upwards, as if to signify the disappearance of the separation between humans and God. Furthermore, the corpse is elevated on a large mound of earth, bringing it closer to the heavens and thus to God</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/146727591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-01-10T15:33:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704900792994",
+    "dcterms:modified" : "2024-01-10T15:33:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest__Leo__Trotin.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1009,831,39,58"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1028.42611,888.79471c0,-12.93618 6.46809,-25.87235 19.40427,-38.80853c0,-10.71668 -8.68759,-19.40427 -19.40427,-19.40427c-10.71668,0 -19.40427,8.68759 -19.40427,19.40427c12.93618,12.93618 19.40427,25.87235 19.40427,38.80853z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_c2598925-4bb6-4ebc-b24f-a08a9ba4cbc2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://53b25508-e732-4493-a422-6acc22338d56"
+    } ]
+  } ],
+  "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/annotations/Annotation_image_",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

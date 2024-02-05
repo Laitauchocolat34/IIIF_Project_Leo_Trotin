@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifestLeoTrotin.json",
     "label" : "IIIF_Project_Leo"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Laitauchocolat34.github.io/IIIF_Project_Leo_Trotin/manifests/manifest_Leo_Trotin2.json",
+    "label" : "IIIF_Project_Leo"
   } ]
 }
